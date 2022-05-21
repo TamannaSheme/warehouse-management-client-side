@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de5eed25.css",
+    "main.js": "/static/js/main.dc129065.js",
+    "static/js/787.bd5bfa1e.chunk.js": "/static/js/787.bd5bfa1e.chunk.js",
+    "static/media/login-bg.jpg": "/static/media/login-bg.5d04090cc6fd9e2b244a.jpg",
+    "static/media/guy 1.png": "/static/media/guy 1.622718f65920e1fdd543.png",
+    "static/media/last.png": "/static/media/last.8bcc0e626ff1aa22c953.png",
+    "static/media/bose_759944_0020_quietcomfort_35_acoustic_noise_1250648_1_ 1.png": "/static/media/bose_759944_0020_quietcomfort_35_acoustic_noise_1250648_1_ 1.bb7e187471a04932c9d5.png",
+    "static/media/perfect.png": "/static/media/perfect.8d5df70bc9fd9e0563a2.png",
+    "static/media/banner-item.png": "/static/media/banner-item.86ee008bc2f91c02ba8a.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.d691f36ffede4e235352.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.de5eed25.css.map": "/static/css/main.de5eed25.css.map",
+    "main.dc129065.js.map": "/static/js/main.dc129065.js.map",
+    "787.bd5bfa1e.chunk.js.map": "/static/js/787.bd5bfa1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5eed25.css",
+    "static/js/main.dc129065.js"
+  ]
+}

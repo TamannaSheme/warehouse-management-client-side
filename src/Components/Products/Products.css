@@ -1,0 +1,43 @@
+/* Product CSS Added */
+
+
+.products-container{
+    margin-top: 150px;
+    margin-bottom: 50px;
+   
+}
+.products-title{
+    font-family: Gotham;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+   
+}
+.load-products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    margin-top: 35px;
+    
+}
+
+@media screen and (max-width: 600px) {
+
+    .products-title{
+        font-family: Gotham;
+        font-size: 44px;
+
+       
+    }
+    .load-products{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 25px;
+        align-items: center;
+        margin-left: 20%;
+   
+        
+    }
+
+}

@@ -1,0 +1,82 @@
+/* inventory CSS  */
+
+.inventory{
+   margin-top: 20px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.single-card .single-card-img{
+    width: 286px;
+    height: 230px;
+    margin: 8px 7px 8px 7px;
+    border-radius: 5px;
+}
+.single-card{
+    width: 300px;
+    height: auto;
+    text-align: justify;
+    box-shadow: 2px 2px 4px 4px rgb(223, 221, 221);
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+}
+.single-card-container{
+    padding: 15px;
+}
+.single-card-container .card-title{
+    font-size: 22px;
+}
+.delivered-add-btn{
+    width: 350px;
+    height: auto;
+    border: 2px solid black;
+    align-items: center;
+}
+.delivered{
+    align-items: center;
+
+}
+.delivered-btn,
+.add-quantity-btn{
+    width: 90%;
+    height: 48px;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px solid black;
+    background: #191919;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+
+}
+.add-quantity{
+    margin-top: 5%;
+}
+.add-quantity input{
+    width: 90%;
+    margin: 5% 5% 5% 5%;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.manage-all-inventory{
+    width: 90%;
+    margin: 5% 5% 5% 5%;
+    border: none;
+    border-radius: 5px;
+    height: 48px;
+    background: #191919;
+    
+}
+.manage-all-inventory-link{
+ text-decoration: none;
+ font-size: 19px;
+ font-weight: 600;
+  color: #fff;
+}

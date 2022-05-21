@@ -1,0 +1,58 @@
+/* Add new product  */
+
+.style-addProduct{
+  
+    margin-top: 50px;
+
+}
+.style-addProduct h1{
+  
+    font-family: Gotham;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0em;
+
+}
+.addProduct-area{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin-left: 35%;
+    display: flex;
+    flex-direction: column;
+
+}
+.addProduct-area form{
+    
+    display: flex;
+    flex-direction: column;
+
+}
+.addProduct-area .name-area-field,
+.text-area-field,
+.price-area-field,
+.quantity-area-field,
+.suplier-area-field,
+.img-area-field,
+.submit-area-field{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 48px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+   
+}
+.submit-area-field{
+    background: #191919;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
